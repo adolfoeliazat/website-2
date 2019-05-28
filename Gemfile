@@ -5,8 +5,8 @@ source "http://rubygems.org"
 gem "mini_racer"
 
 # Middleman
-gem "middleman", "~> 3.4.1"
-gem "middleman-blog", "~> 3.5.3"
+gem "middleman", "~> 4.3.4"
+gem "middleman-blog", "~> 4.0.3"
 gem "middleman-autoprefixer"
 gem "middleman-minify-html"
 gem "middleman-search", git: "https://github.com/DefactoSoftware/middleman-search"
